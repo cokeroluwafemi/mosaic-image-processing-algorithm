@@ -1,0 +1,4 @@
+/dist/*
+/gosaic.sqlite3
+/.cover
+/coverage.xml
